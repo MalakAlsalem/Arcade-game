@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+
+section {
+	margin-left: 500px;
+	margin-right: 500px;
+	font-size: 20px;
+	background-color: #d8d8de;
+	color: #6d6d6d;
+}
+
+/*section > div {
+	background-color: #d8d8de;
+}*/
