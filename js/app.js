@@ -31,7 +31,7 @@ Enemy.prototype.update = function(dt) {
     30 + player.y > this.y) {
         // when player lose
         alert ("You lost, play agian?");
-        this.reset();
+        player.reset();
     }
 };
 
@@ -96,10 +96,14 @@ var counter=setInterval(timer, 1000);
 function timer() {
     seconds-=1;
     if (seconds <= 0) {
+        // when time ended player lose 
         alert ("You lost, play again?");
-        // end counter
+        // counter stopped
         clearInterval(counter);
-        this.reset();
+        // player will rest
+        player.reset();
+        // counter will start agian
+        counter=setInterval(timer, 1000);
         return;
     }
     // showing the number of seconds
