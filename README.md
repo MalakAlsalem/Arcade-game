@@ -1,5 +1,3 @@
-
-
 Arcade game 
 ===========
 
@@ -7,7 +5,7 @@ Arcade game
 The game is a project for Front-End Web Development Nanodegree form [Udacity][1].
 
 **Run application:**
-To successfully run the application, you must down load all files by clicking [here][3], extract file then you will get the application file witch its name is "*index"* .
+To successfully run the application, you must download the folder by clicking [here][3], extract it then you will get the application file witch its name is "*index"* .
 
 > **Instructions for playing:**
 > - The player should use arrow keys to move up, down, right and left.
