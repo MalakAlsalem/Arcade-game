@@ -155,10 +155,3 @@ document.addEventListener('keyup', function(e) {
 
     player.handleInput(allowedKeys[e.keyCode]);
 });
-
-
-
-
-
-// restart timer after end time doesn't work
-// also restart it and reset after lose
