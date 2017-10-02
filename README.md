@@ -1,14 +1,20 @@
-frontend-nanodegree-arcade-game
-===============================
-
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
-
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
 
+Arcade game 
+===========
+
+**About the game:**
+The game is a project for Front-End Web Development Nanodegree form [Udacity][1].
+
+> **Instructions for playing:**
+> - The player should use arrow keys to move up, down, right and left.
+> - The player should avoid the enemies until reach to water with 10 seconds time limit.
+> - When time ended the player will lose.
+> - Every time player wins he will get 1 score.
+
+This [video][2] shows similar game without time limit and score. 
 
 
 
-
-
-https://www.youtube.com/watch?v=SxeHV1kt7iU&feature=youtu.be
+  [1]: https://www.udacity.com/ 
+  [2]: https://www.youtube.com/watch?v=SxeHV1kt7iU&feature=youtu.be
