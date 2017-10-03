@@ -125,9 +125,9 @@ Player.prototype.handleInput = function(e) {
 //reset method
 Player.prototype.reset = function() {
     "use strict";
-   this.x = 200;
-   this.y = 350;
-   seconds=11;
+    this.x = 200;
+    this.y = 350;
+    seconds=11;
 };
 
 // Now instantiate your objects.
