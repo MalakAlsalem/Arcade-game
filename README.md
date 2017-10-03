@@ -5,7 +5,8 @@ Arcade game
 The game is a project for Front-End Web Development Nanodegree form [Udacity][1].
 
 **Run application:**
-To successfully run the application, you must download the folder by clicking [here][3], extract it then you will get the application file witch its name is "*index"* .
+You can play the game using [this live link][2].
+To download game files [click here][3], extract the file then you will get the application page witch its name is "*index"* .
 
 > **Instructions for playing:**
 > - The player should use arrow keys to move up, down, right and left.
@@ -13,10 +14,14 @@ To successfully run the application, you must download the folder by clicking [h
 > - When time ended the player will lose.
 > - Every time player wins he will get 1 score.
 
-This [video][2] shows similar game without time limit and score. 
+This [video][4] shows similar game without time limit and score. 
 
+
+**[My Github account] [5]**
 
 
   [1]: https://www.udacity.com/ 
-  [2]: https://www.youtube.com/watch?v=SxeHV1kt7iU&feature=youtu.be
-  [3]: https://github.com/SafiahAlsalem/Arcade-game/archive/master.zip
+  [2]: https://safiahalsalem.github.io/Arcade-game/
+  [3]: https://github.com/SafiahAlsalem/Arcade-game/archive/master.zip 
+  [4]: https://www.youtube.com/watch?v=SxeHV1kt7iU&feature=youtu.be
+  [5]: https://github.com/SafiahAlsalem 
