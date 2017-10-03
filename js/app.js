@@ -31,7 +31,7 @@ Enemy.prototype.update = function(dt) {
     if (player.x < this.x + 60 &&
     player.x + 50 > this.x &&
     player.y < this.y + 50 &&
-    100 + player.y > this.y) {
+    70 + player.y > this.y) {
         // when player lose
         alert ("You lost, play agian?");
         player.reset();
@@ -61,16 +61,16 @@ var Player = function() {
 Player.prototype.update = function(dt) {
     "use strict";
     // Set the movements for player
-    if(this.Key === 'up' && this.y > 0) {
+    if(this.Key === 'up' && this.y > -10) {
         this.y -= 50;
     }
-    if(this.Key === 'down' && this.y < 300) {
+    if(this.Key === 'down' && this.y < 400) {
         this.y += 50;
     }
-    if(this.Key === 'left' && this.x > 0) { 
+    if(this.Key === 'left' && this.x > 30) { 
         this.x -= 60;
     }
-    if(this.Key === 'right' && this.x < 300) { 
+    if(this.Key === 'right' && this.x < 350) { 
         this.x += 60;
 
     }
@@ -137,7 +137,7 @@ Player.prototype.reset = function() {
 var allEnemies = [];
 for (var i= 2; i < 5; i++) {
     speed = Math.floor(Math.random() *10 +4) * 30; 
-    allEnemies.push(new Enemy(1, 2 +55 *i, speed));
+    allEnemies.push(new Enemy(1, 70 +47 *i, speed));
 }
 
 var player = new Player(200, 350);
