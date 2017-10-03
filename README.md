@@ -16,8 +16,7 @@ To download game files [click here][3], extract the file then you will get the a
 
 This [video][4] shows similar game without time limit and score. 
 
-
-**[My Github account] [5]**
+[My Github account] [5]
 
 
   [1]: https://www.udacity.com/ 
