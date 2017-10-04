@@ -2,7 +2,7 @@ Arcade game
 ===========
 
 **About the game:**
-The game is a project for Front-End Web Development Nanodegree form [Udacity][1].
+The game is a project for Front-End Web Development Nanodegree from [Udacity][1].
 
 **Run application:**
 You can play the game using [this live link][2].
