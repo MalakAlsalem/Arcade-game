@@ -5,7 +5,6 @@ Arcade game
 The game is a project for Front-End Web Development Nanodegree from [Udacity][1].
 
 **Run application:**
-You can play the game using [this live link][2].
 To download game files [click here][3], extract the file then you will get the application page witch its name is "*index"* .
 
 > **Instructions for playing:**
