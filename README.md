@@ -15,11 +15,10 @@ To download game files [click here][3], extract the file then you will get the a
 
 This [video][4] shows similar game without time limit and score. 
 
-My Github account: [Safiah Alsalem][5]
+My Github account: [Malak Alsalem][5]
 
 
   [1]: https://www.udacity.com/ 
-  [2]: https://safiahalsalem.github.io/Arcade-game/
   [3]: https://github.com/SafiahAlsalem/Arcade-game/archive/master.zip 
   [4]: https://www.youtube.com/watch?v=SxeHV1kt7iU&feature=youtu.be
-  [5]: https://github.com/SafiahAlsalem 
+  [5]: https://github.com/MalakAlsalem 
